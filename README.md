@@ -4,9 +4,8 @@ Project 3 of Udacity's FEND Nanodegree program. This is built as a 2D arcade gam
 
 ## Installation
 1. Clone or download to your computer
-2. Open project with your text editor
-3. Play
-4. Don't lose!
+2. Open index.html file with your favorite browser to run the game
+3. Don't lose!
 
 ## How to Play
 Ladybugs have taken over your tiny world. You must cross the road to get the safety of the river.
