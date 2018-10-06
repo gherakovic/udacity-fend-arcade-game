@@ -4,7 +4,7 @@ Project 3 of Udacity's FEND Nanodegree program. This is built as a 2D arcade gam
 
 ## Installation
 1. Clone or download to your computer
-2. Open project with text editor
+2. Open project with your text editor
 3. Play
 4. Don't lose!
 
